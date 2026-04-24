@@ -1,0 +1,3 @@
+bug_id,mutant_type,operator,config_str,IQ,EQ,EQ_reliable,S_m,weighted_C
+deeplocalize031,MM_deeplocalize031_delete_training_data_mutated0_MP_99,delete_training_data,99,0.602368120358494,0.0,False,0.000358222218108272,0.39741602067183474
+deeplocalize031,MM_deeplocalize031_disable_batching_mutated0_MP,disable_batching,,0.3242295382623621,0.0,False,0.5368538462606504,0.2999412050718817
